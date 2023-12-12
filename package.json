@@ -13,13 +13,13 @@
   "dependencies": {
     "@semantic-release/apm": "^4.0.0",
     "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/commit-analyzer": "^9.0.0",
+    "@semantic-release/commit-analyzer": "^11.0.0",
     "@semantic-release/git": "^10.0.0",
-    "@semantic-release/github": "^8.0.0",
-    "@semantic-release/release-notes-generator": "^10.0.0"
+    "@semantic-release/github": "^9.0.0",
+    "@semantic-release/release-notes-generator": "^12.0.0"
   },
   "devDependencies": {
-    "semantic-release": "19.0.5",
+    "semantic-release": "22.0.12",
     "xo": "0.50.0"
   },
   "engines": {
